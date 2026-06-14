@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.0/Gestao_de_Vendas.apk",
-  "releaseNotes": "- Novo Módulo: Tarefas, ao qual é um KanBan, organização feita a partir de cards e colunas como o Trello, adicionado em Cadastros a opção de cadastrar novas colunas. - Adicionado função anotações pela S Pen - Adicionado opção de contato direto, clicando e segurando o número do cliente, e abrir conversa pelo Whatsapp ao clicar. - Implementado o Lazy Loading, aplicativo mais rápido e mais leve, menos consumo de memória RAM. - Implementado a Virtualização de Listas, deixando a lista de clientes mais leve, suportando milhares de cadastros sem perda da performance do hardware. - Implementado Motor de Vibração Tátil (Haptics). - Implementado Animações em todo o aplicativo, com baixo consumo de CPU, GPU e RAM. - Implementado sistema de gerenciamento mais inteligente do aplicativo, para usar CPU e GPU de forma mais estratégica, deixando o aplicativo mais fluido e eficiente. - Correção de bugs visuais seleção azul ao clicar em algumas opções no aplicativo. - Correção de bugs falta de setas ou algumas opções em Cadastros fora do padrão dos demais. - Correção do Status de Agendamento fora sem seta de retorno e sem o botão de ação."
+  "version": "1.1.1",
+  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.1/Gestao_de_Vendas.apk",
+  "releaseNotes": "- Adicionado Mostrar Mapa Geral com interação da S Pen para criar rotas com a caneta. - Corrigido Bug que não editava nem abria imagem de anotação interativa. - Adicionado localização em tempo real durante o Mostrar Mapa Geral e Rota."
 }
