@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.1/Gestao_de_Vendas.apk",
-  "releaseNotes": "- Adicionado Mostrar Mapa Geral com interação da S Pen para criar rotas com a caneta. - Corrigido Bug que não editava nem abria imagem de anotação interativa. - Adicionado localização em tempo real durante o Mostrar Mapa Geral e Rota."
+  "version": "1.1.2",
+  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.2/Gestao_de_Vendas.apk",
+  "releaseNotes": "- Corrigido comunicação GPS nativo Android."
 }
