@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.2/Gestao_de_Vendas.apk",
-  "releaseNotes": "- Corrigido comunicação GPS nativo Android."
+  "version": "1.1.3",
+  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.3/Gestao_de_Vendas.apk",
+  "releaseNotes": "- Adicionar clientes a rota não se fecha mais quando adiciona um cliente"
 }
