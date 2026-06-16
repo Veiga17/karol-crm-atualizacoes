@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.4/Gestao_de_Vendas.apk",
-  "releaseNotes": "- Reformulado Agenda, agora é feito modelo Drap and Drop, reordenado, sem logística de hora"
+  "version": "1.1.5",
+  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.5/Gestao_de_Vendas.apk",
+  "releaseNotes": "- Corrigido Bug Agenda cards desordenados"
 }
