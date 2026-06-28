@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.1.5/Gestao_de_Vendas.apk",
-  "releaseNotes": "- Corrigido Bug Agenda cards desordenados"
+  "version": "1.2.0",
+  "apkUrl": "https://github.com/Veiga17/karol-crm-atualizacoes/releases/download/v1.2.0/Gestao_de_Vendas.apk",
+  "releaseNotes": "- Adicionado modulo de inteligência de Clientes - Corrigido bug listagem ordenada em Agenda"
 }
